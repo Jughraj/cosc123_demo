@@ -3,7 +3,8 @@
 this is jus random text outchere
 
 ## LEVEL 2 heading 
-if u want **bold** text.. jus surround with double star 
+if u want **bold** text, jus surround with double star
+if u want to *italicaize* text, jus use a single star
 ### level 3 
 if u want to make a list:
 
